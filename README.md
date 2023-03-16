@@ -1,0 +1,1 @@
+Desafio 2 do evento "Jornada do zero à primeira vaga" realizado pela Rocketseat
